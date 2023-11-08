@@ -1,6 +1,8 @@
 def main():
     
-    print("Hello world for")
+    name:str = input()
+
+    print("Hello world for", name)
 
 
 if __name__ == "__main__":
